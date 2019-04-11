@@ -12,7 +12,7 @@ pip - 19.0.2
 
 Instructions to execute(MacOS) :
 
-1. Extract the .zip file to a desired location.
+1. Download or pull the files to your desired location.
 
 
 2. Start the MySQL server.
